@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Chun-Han Wang</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=genewang0929&label=Profile%20views&color=0e75b6&style=flat" alt="genewang0929" /> </p>
 
-- 🔭 I’m currently working on [transaction-monitor](https://github.com/genewang0929/transaction-monitor)
+- 🔭 I’m currently working on [minibase](https://github.com/genewang0929/minibase)
 
 - 🌱 I’m currently learning **AWS, Database and software architectures**
 
