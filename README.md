@@ -33,8 +33,8 @@ My industry experience spans three software engineering and DevOps internships a
 
 ### 🚀 Featured Projects
 
-* **[LeTracker](https://github.com/genewang0929/LeTracker)** - A custom spaced-repetition learning system for LeetCode practice, architected and built with Go. *(Note: Update this link once the repo is public)*
-* **[Custom Layer 7 Load Balancer](#)** - A custom L7 load balancer written in Go, featuring round-robin routing, TCP dialing health checks, and secure concurrency management. *(Note: Update this link once the repo is public)*
+* **[LeTracker](https://github.com/genewang0929/LeTracker)** - A custom spaced-repetition learning system for LeetCode practice, architected and built with Go.
+* **[Custom Layer 7 Load Balancer](https://github.com/genewang0929/cl7-load-balancer)** - A custom L7 load balancer written in Go, featuring round-robin routing, TCP dialing health checks, and secure concurrency management.
 * **[Transaction Monitor](https://github.com/genewang0929/transaction-monitor)** - An e-banking system that tracks users monthly transactions, implemented scalability and reliability with Kubernetes and Kafka.
 * **[Vocaliz Backend](https://github.com/genewang0929/Vocaliz-Backend)** - Vocabulary app that optimizes your vocabulary learning experience with multiple features, including vocabulary list, categorization, search, ranking and quiz.
 * **[NoteShareDevBackend](https://github.com/allen3325/NoteShareDevBackend)** - Note sharing system that featured with plagirism detection and real-time co-editing.
